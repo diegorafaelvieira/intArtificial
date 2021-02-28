@@ -35,6 +35,7 @@
     <div class="row container">
         <div class="col-sm-12">
             <h1>Lista de posts aqui</h1>
+            <h1>TESTE</h1>
         </div>
     </div>
 

@@ -27,6 +27,7 @@
     <div class="col-sm-12 text-center">
         <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
         <h1>RecomendaIA</h1>
+        <h1>TESTE</h1>
         <h4 class="text-muted">Software de recomendações de linguagens de programação</h4>
         <form action="index.php" method="post">
             <div class="mb-3">
@@ -40,7 +41,6 @@
 </div>
 </body>
 </html>
-
 
 
 
